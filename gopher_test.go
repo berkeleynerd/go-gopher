@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"git.mills.io/prologic/go-gopher"
+	"github.com/berkeleynerd/go-gopher"
 	"github.com/stretchr/testify/assert"
 )
 
