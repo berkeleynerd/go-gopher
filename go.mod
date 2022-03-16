@@ -3,7 +3,7 @@ module github.com/berkeleynerd/go-gopher
 go 1.17
 
 require (
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
 )
 
